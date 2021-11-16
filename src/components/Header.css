@@ -1,0 +1,46 @@
+.header {
+  width: 100%;
+  padding: 10px 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: var(--slack-color);
+  color: #fff;
+}
+.header_left {
+  display: flex;
+  align-items: center;
+  margin-left: 10px;
+  flex: 0.25;
+  justify-content: space-between;
+}
+.header_avatar {
+  margin-left: 10px;
+}
+.header_search {
+  display: flex;
+  flex: 0.4;
+  align-items: center;
+  padding: 0 25px;
+  background-color: #421f44;
+  color: grey;
+  border: 1px gray solid;
+  border-radius: 6px;
+}
+.header_search input {
+  width: 100%;
+  background-color: transparent;
+  text-align: left;
+  border: none;
+  color: #fff;
+  font-size: 14px;
+}
+.header_search input:focus {
+  outline: none;
+}
+.header_search_icon {
+  justify-self: flex-end;
+}
+.header_right {
+  flex: 0.25;
+}

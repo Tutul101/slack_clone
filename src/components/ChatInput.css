@@ -1,0 +1,22 @@
+.chatInput {
+  border-radius: 20px;
+}
+.chatInput > form {
+  display: flex;
+  justify-content: center;
+}
+.chatInput > input {
+  width: 60%;
+}
+.chatInput__msg {
+  width: 70%;
+}
+.chatInput__msg:focus {
+  outline: none;
+}
+.send_btn {
+  padding-left: 2.5%;
+  font-size: 18px;
+  color: #388e3c !important;
+  background-color: #388e3c;
+}

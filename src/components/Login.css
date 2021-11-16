@@ -1,0 +1,28 @@
+.login {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.login__container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 100px;
+  border-radius: 10%;
+  box-shadow: 3px 4px 5px 0px rgba(95, 92, 92, 0.75);
+  -webkit-box-shadow: 3px 4px 5px 0px rgba(95, 92, 92, 0.75);
+  -moz-box-shadow: 3px 4px 5px 0px rgba(95, 92, 92, 0.75);
+}
+.login__container > img {
+  height: 100px;
+  object-fit: contain;
+  margin-bottom: 40px;
+}
+.signin__btn {
+  color: white !important;
+  background-color: #0a8d48 !important;
+  margin-top: 50px !important;
+}
