@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/slack-clone/static/css/main.1fddc3be.chunk.css",
-    "main.js": "/slack-clone/static/js/main.2e1d8ffe.chunk.js",
-    "main.js.map": "/slack-clone/static/js/main.2e1d8ffe.chunk.js.map",
-    "runtime-main.js": "/slack-clone/static/js/runtime-main.2104e081.js",
-    "runtime-main.js.map": "/slack-clone/static/js/runtime-main.2104e081.js.map",
-    "static/js/2.7ea82ebb.chunk.js": "/slack-clone/static/js/2.7ea82ebb.chunk.js",
-    "static/js/2.7ea82ebb.chunk.js.map": "/slack-clone/static/js/2.7ea82ebb.chunk.js.map",
-    "static/js/3.1c095406.chunk.js": "/slack-clone/static/js/3.1c095406.chunk.js",
-    "static/js/3.1c095406.chunk.js.map": "/slack-clone/static/js/3.1c095406.chunk.js.map",
-    "index.html": "/slack-clone/index.html",
-    "static/css/main.1fddc3be.chunk.css.map": "/slack-clone/static/css/main.1fddc3be.chunk.css.map",
-    "static/js/2.7ea82ebb.chunk.js.LICENSE.txt": "/slack-clone/static/js/2.7ea82ebb.chunk.js.LICENSE.txt"
+    "main.css": "/slack_clone/static/css/main.12b641a7.chunk.css",
+    "main.js": "/slack_clone/static/js/main.5852ce3f.chunk.js",
+    "main.js.map": "/slack_clone/static/js/main.5852ce3f.chunk.js.map",
+    "runtime-main.js": "/slack_clone/static/js/runtime-main.8ccdd65a.js",
+    "runtime-main.js.map": "/slack_clone/static/js/runtime-main.8ccdd65a.js.map",
+    "static/js/2.9697f5af.chunk.js": "/slack_clone/static/js/2.9697f5af.chunk.js",
+    "static/js/2.9697f5af.chunk.js.map": "/slack_clone/static/js/2.9697f5af.chunk.js.map",
+    "static/js/3.1c095406.chunk.js": "/slack_clone/static/js/3.1c095406.chunk.js",
+    "static/js/3.1c095406.chunk.js.map": "/slack_clone/static/js/3.1c095406.chunk.js.map",
+    "index.html": "/slack_clone/index.html",
+    "static/css/main.12b641a7.chunk.css.map": "/slack_clone/static/css/main.12b641a7.chunk.css.map",
+    "static/js/2.9697f5af.chunk.js.LICENSE.txt": "/slack_clone/static/js/2.9697f5af.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2104e081.js",
-    "static/js/2.7ea82ebb.chunk.js",
-    "static/css/main.1fddc3be.chunk.css",
-    "static/js/main.2e1d8ffe.chunk.js"
+    "static/js/runtime-main.8ccdd65a.js",
+    "static/js/2.9697f5af.chunk.js",
+    "static/css/main.12b641a7.chunk.css",
+    "static/js/main.5852ce3f.chunk.js"
   ]
 }
